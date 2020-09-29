@@ -1,6 +1,6 @@
 En el intento de encontrar algo mas barato y programable como alternativa al beebot, prové el escornabot y 2 bases de robot para Microbit. Os dejo mis impresiones aqui:
 
-*Escornabot*
+**Escornabot**
 - Yo lo compré como kit en https://electronperdido.com/shop/robots/kits-robot/escornabot-singularis-2-12/
 - Me imprimí las piezas yo, aunque quizás las hubiera comprado porque puse poco infill y el resultado final es un poco endeble.
 - Los niños no saben donde está el delante y el detrás (yo tampoco) y esto hace que confundan las teclas de dirección.
@@ -10,7 +10,7 @@ En el intento de encontrar algo mas barato y programable como alternativa al bee
 - Aunque el nuestro sigue vivo, no se que tal aguantara mucho tute de niños pequeños.
 
 
-*Maqueen (DF Robot) (https://www.dfrobot.com/product-1783.html)*
+**Maqueen (DF Robot) (https://www.dfrobot.com/product-1783.html)**
 - Funciona con microbit.
 - Los bloques de programación del makecode no estan tan bien como el Minibit, ya que tienes que arrancar motores, hacer un pause i pararlos. ESto complica un poco la programación. ESto creo que es porque ellos ya tiene su propia version de scratch que es mas potente, pero no la he probado.
 - Solo tiene dos leds rojos muy sosos (para un niño)
@@ -24,7 +24,7 @@ En el intento de encontrar algo mas barato y programable como alternativa al bee
 
 
 
-*Minibit (4tronix) (https://shop.4tronix.co.uk/products/minibit):*
+**Minibit (4tronix) (https://shop.4tronix.co.uk/products/minibit):**
 - Funciona con Microbit
 - Los bloques que ofrece para programar estan bien. Mejor que el maqueen, pero si pones misma velocidad y mismo tiempo en ambos motores, se acaba desviando igual.
 - Se puede comprar un sensor de sonar para evitar obstaculos muy facil de usar.
